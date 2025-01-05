@@ -2,7 +2,7 @@
   "name": "wordify",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://JFoyo.github.io/wordify",
+  "homepage": "https://JFoyo.github.io/Wordify",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.7.2",
     "@fortawesome/free-solid-svg-icons": "^6.7.2",
